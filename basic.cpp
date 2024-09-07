@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+
     int year = 0;
     cout << "Enter your birth year";
     cin >> year;
